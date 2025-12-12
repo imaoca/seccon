@@ -25,7 +25,7 @@
 ## 想定競技　2チーム以上
 ## 実施時間　２時間程度
 ## 必要機材
-### 運営側　　協議機材一式（以下の光ロバチャン実装例を参照）
+### 運営側　　競技機材一式（以下の光ロバチャン実装例を参照）
 ### 参加者側 ノートPC　HDMIアダプター
 
 # 光ロバチャンの実装例
@@ -40,4 +40,5 @@ https://github.com/imaoca/seccon/blob/main/2026/0_irOnOff/onOff.md
 https://github.com/imaoca/seccon/blob/main/2026/0_irAM/irAM.md
 
 ps://note.com/shingo_shirogane/n/n327b6fd1f1
+
 
