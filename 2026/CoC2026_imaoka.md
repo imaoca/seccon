@@ -1,6 +1,5 @@
-
-
 # SECCON 14 Contest of Contest 企画案
+## 光ロバチャンの提案
 
 提案者： 今岡通博
 
@@ -9,8 +8,7 @@
 # 自己紹介
 ~~~
 今岡　通博
-愛媛県松山市在住、61歳
-自営　今岡工学事務所
+愛媛県松山市在住、63歳3自営　今岡工学事務所
 組込み系、FPGA、執筆
 2014- Microsoft MVP (Windows Development)
 2015- セキュリティ・キャンプ講師
@@ -42,3 +40,4 @@ https://github.com/imaoca/seccon/blob/main/2026/0_irOnOff/onOff.md
 https://github.com/imaoca/seccon/blob/main/2026/0_irAM/irAM.md
 
 ps://note.com/shingo_shirogane/n/n327b6fd1f1
+
